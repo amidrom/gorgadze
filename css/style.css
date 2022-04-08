@@ -23,10 +23,6 @@ li{
 hr{
     border-top: 1px solid #404040;
 }
-img{
-    max-width: 100%;
-    height: auto;
-}
 .container{
     max-width: 1220px;
     margin: 0 auto;
@@ -620,6 +616,10 @@ h1{
     }
 }
 @media (max-width: 1024px){
+    img{
+    max-width: 100%;
+    height: auto;
+    }
     .about__inner{
         padding-top: 50px;
     }
