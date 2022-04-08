@@ -616,10 +616,10 @@ h1{
     }
 }
 @media (max-width: 1024px){
-    img{
+/*     img{
     max-width: 100%;
     height: auto;
-    }
+    } */
     .about__inner{
         padding-top: 50px;
     }
